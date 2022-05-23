@@ -12,7 +12,9 @@
 
 [2021 Dataset Script](https://github.com/operard/vidacaixa2022/blob/main/doc/script_update_races_score_2021.sql)
 
-[2021 Dataset CSV](https://github.com/operard/vidacaixa2022/blob/main/doc/races_2021_scored.csv)
+[2021 Dataset CSV Scored](https://github.com/operard/vidacaixa2022/blob/main/doc/races_2021_scored.csv)
+
+[2020-2021 Dataset CSV updated](https://github.com/operard/vidacaixa2022/blob/main/doc/races_2020_2021.csv)
 
 
 ## Wallet to be used by Oracle Analytics Cloud 
