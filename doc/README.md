@@ -4,6 +4,9 @@
 
 [VidaCaixa Event](https://github.com/operard/vidacaixa2022/blob/main/doc/Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%202-MAY-2022%20JFOKUS.pdf)
 
+## Script to update DB Schema for Training Model
+
+[Update Schema](https://github.com/operard/vidacaixa2022/blob/main/doc/script_update_schema.sql)
 
 ## Script to update RACES Table for 2021 Fans Score
 
