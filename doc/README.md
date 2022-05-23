@@ -2,7 +2,7 @@
 
 ## Presentation used during the event
 
-[VidaCaixa Event](https://github.com/operard/vidacaixa2022/blob/main/doc/Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%202-MAY-2022%20JFOKUS.pdf)
+[VidaCaixa Event](https://github.com/operard/vidacaixa2022/blob/main/doc/vidacaixa_Learn%20Analytics%20and%20Machine%20Learning%20with%20Red%20Bull%2023-MAY-2022.pdf)
 
 ## Script to update DB Schema for Training Model
 
