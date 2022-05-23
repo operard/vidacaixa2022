@@ -11,7 +11,7 @@ During the VidaCaixa 2022 Event, each developer must use the next URLs:
 
 Open the following URL, **replace the "workshop" part of the URL with the workshop user as given to you by your instructor (lowercase)**
 
-   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/workshop/_sdw/
+   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/workshop[??]/_sdw/
 
    e.g., if you have been given workshop12 as your user, then the URL will be:
 
