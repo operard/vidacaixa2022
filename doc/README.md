@@ -6,7 +6,7 @@
 
 ## Script to update DB Schema for Training Model
 
-[Update Schema](https://github.com/operard/vidacaixa2022/blob/main/doc/script_update_schema.sql)
+[Update DB Schema for Training](https://github.com/operard/vidacaixa2022/blob/main/doc/script_update_schema.sql)
 
 ## Script to update RACES Table for 2021 Fans Score
 
